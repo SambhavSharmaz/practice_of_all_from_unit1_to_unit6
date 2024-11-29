@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationMultilingue</string>
+    <string name="greeting">Bonjour, bienvenue dans l'application!</string>
+</resources>
